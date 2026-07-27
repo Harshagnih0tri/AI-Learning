@@ -67,3 +67,20 @@ Examples
 - Coding Agent
 - Research Agent
 - Customer Support Agent
+# AI Resources
+
+## Frameworks
+- LangChain
+- LangGraph
+- LlamaIndex
+
+## Models
+- GPT
+- Claude
+- Gemini
+- Llama
+
+## Vector Databases
+- Chroma
+- Pinecone
+- FAISS
