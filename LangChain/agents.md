@@ -47,3 +47,23 @@ ollama run llama3
 ollama pull mistral
 ollama list
 ollama serve
+# AI Agents
+
+Workflow
+
+User
+ ↓
+Planner
+ ↓
+LLM
+ ↓
+Tools
+ ↓
+Memory
+ ↓
+Response
+
+Examples
+- Coding Agent
+- Research Agent
+- Customer Support Agent
