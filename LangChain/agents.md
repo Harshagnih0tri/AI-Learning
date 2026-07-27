@@ -23,3 +23,15 @@ AI-Learning/
 │   └── prompt-guide.md
 │── experiments/
 │   └── .gitkeep
+# Prompt Engineering
+
+## Basic Prompt
+Give clear instructions.
+
+## Few-shot Prompting
+
+Provide examples.
+
+## Chain of Thought
+
+Break problems into reasoning steps.
