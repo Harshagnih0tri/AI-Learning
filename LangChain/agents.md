@@ -35,3 +35,15 @@ Provide examples.
 ## Chain of Thought
 
 Break problems into reasoning steps.
+# Ollama
+
+## What is Ollama?
+Ollama lets you run open-source LLMs locally.
+
+## Common Commands
+
+```bash
+ollama run llama3
+ollama pull mistral
+ollama list
+ollama serve
