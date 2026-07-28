@@ -112,3 +112,121 @@ This repository contains my notes, code examples, mini-projects, and interview p
 - Master backend development
 - Prepare for AI/ML interviews
 - Document daily learning
+
+AI-Learning/
+│── README.md
+│── ROADMAP.md
+│── LEARNING_LOG.md
+│── RESOURCES.md
+│── .gitignore
+│── requirements.txt
+│
+├── AI-Agents/
+│   ├── agent_loop.py
+│   ├── tool_calling.py
+│   ├── planner_executor.py
+│   ├── memory.py
+│   ├── notes.md
+│   └── interview.md
+│
+├── Claude-Code/
+│   ├── cli_commands.md
+│   ├── best_practices.md
+│   ├── prompts.md
+│   └── notes.md
+│
+├── FastAPI/
+│   ├── main.py
+│   ├── crud.py
+│   ├── auth.py
+│   ├── middleware.py
+│   ├── dependency_injection.py
+│   ├── file_upload.py
+│   └── notes.md
+│
+├── Google-AI/
+│   ├── gemini_chat.py
+│   ├── vision.py
+│   ├── embeddings.py
+│   └── notes.md
+│
+├── Interview/
+│   ├── python.md
+│   ├── fastapi.md
+│   ├── rag.md
+│   ├── llm.md
+│   ├── langchain.md
+│   ├── system_design.md
+│   └── hr.md
+│
+├── LangChain/
+│   ├── prompts.py
+│   ├── output_parser.py
+│   ├── memory.py
+│   ├── chains.py
+│   ├── retriever.py
+│   ├── tools.py
+│   └── notes.md
+│
+├── LangGraph/
+│   ├── graph.py
+│   ├── state.py
+│   ├── conditional_edges.py
+│   ├── checkpoint.py
+│   └── notes.md
+│
+├── LLM/
+│   ├── tokenizer.py
+│   ├── attention.md
+│   ├── transformers.md
+│   ├── inference.md
+│   ├── quantization.md
+│   └── fine_tuning.md
+│
+├── MCP/
+│   ├── client.py
+│   ├── server.py
+│   ├── tools.md
+│   └── notes.md
+│
+├── Projects/
+│   ├── chatbot/
+│   ├── ai-agent/
+│   ├── rag-chatbot/
+│   ├── pdf-chat/
+│   └── resume-analyzer/
+│
+├── Prompt-Engineering/
+│   ├── zero_shot.md
+│   ├── one_shot.md
+│   ├── few_shot.md
+│   ├── cot.md
+│   ├── react.md
+│   ├── system_prompts.md
+│   └── examples.md
+│
+├── Python/
+│   ├── basics.py
+│   ├── oop.py
+│   ├── decorators.py
+│   ├── generators.py
+│   ├── context_manager.py
+│   ├── multithreading.py
+│   ├── async.py
+│   └── interview.md
+│
+├── RAG/
+│   ├── embeddings.py
+│   ├── chunking.py
+│   ├── vector_db.py
+│   ├── faiss.py
+│   ├── chromadb.py
+│   ├── pipeline.py
+│   └── notes.md
+│
+└── Resources/
+    ├── books.md
+    ├── courses.md
+    ├── roadmap.md
+    ├── glossary.md
+    └── cheatsheet.md
