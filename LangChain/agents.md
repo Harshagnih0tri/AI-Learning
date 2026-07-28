@@ -83,4 +83,4 @@ Examples
 ## Vector Databases
 - Chroma
 - Pinecone
-- FAISS
+- FAISS 
