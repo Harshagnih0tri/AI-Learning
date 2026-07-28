@@ -15,3 +15,15 @@ class Student:
 
 s = Student("Harsh")
 print(s.introduce())
+
+steps = [
+    "Load Documents",
+    "Split Text",
+    "Create Embeddings",
+    "Store in Vector DB",
+    "Retrieve Context",
+    "Generate Answer"
+]
+
+for step in steps:
+    print(step)
