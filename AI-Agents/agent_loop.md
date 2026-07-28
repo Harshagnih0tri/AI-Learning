@@ -62,3 +62,30 @@ openai
 google-genai
 python-dotenv
 pydantic
+
+
+# Learning Log
+
+## Day 1
+- Python revision
+- OOP
+- Git
+
+## Day 2
+- FastAPI Basics
+- REST APIs
+
+## Day 3
+- Prompt Engineering
+
+## Day 4
+- LangChain
+
+## Day 5
+- RAG Pipeline
+
+## Day 6
+- AI Agents
+
+## Day 7
+- MCP
