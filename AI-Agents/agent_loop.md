@@ -89,3 +89,26 @@ pydantic
 
 ## Day 7
 - MCP
+
+# AI Learning Repository
+
+This repository contains my notes, code examples, mini-projects, and interview preparation while learning:
+
+- Python
+- FastAPI
+- LLMs
+- Prompt Engineering
+- LangChain
+- LangGraph
+- RAG
+- MCP
+- AI Agents
+- Google Gemini API
+
+## Goals
+
+- Build production-ready AI applications
+- Learn Agentic AI
+- Master backend development
+- Prepare for AI/ML interviews
+- Document daily learning
