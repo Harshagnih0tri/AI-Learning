@@ -50,3 +50,15 @@ This repository contains my notes, code examples, mini-projects, and interview p
 - Master backend development
 - Prepare for AI/ML interviews
 - Document daily learning
+
+fastapi
+uvicorn
+langchain
+langgraph
+chromadb
+faiss-cpu
+sentence-transformers
+openai
+google-genai
+python-dotenv
+pydantic
