@@ -229,4 +229,13 @@ AI-Learning/
     ├── courses.md
     ├── roadmap.md
     ├── glossary.md
-    └── cheatsheet.md
+    └── cheatsheet.md   
+    Content
+
+Added notes on:
+Agentic AI
+AI Automation
+MCP (Model Context Protocol)
+API vs MCP
+AI Skills
+Agent workflow
