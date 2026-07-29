@@ -265,3 +265,13 @@ d = Dog()
 d.speak()
 
 git commit -m "feat: add Python OOP revision examples"
+
+Include:
+
+Mutable vs Immutable
+List vs Tuple
+Decorators
+Generators
+*args **kwargs
+GIL
+OOP concepts
