@@ -239,3 +239,11 @@ MCP (Model Context Protocol)
 API vs MCP
 AI Skills
 Agent workflow
+
+GET
+POST
+PUT
+PATCH
+DELETE
+Status codes
+Request/Response cycle
