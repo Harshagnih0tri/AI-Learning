@@ -247,3 +247,19 @@ PATCH
 DELETE
 Status codes
 Request/Response cycle
+
+# inheritance
+# polymorphism
+# abstraction
+# encapsulation
+
+class Animal:
+    def speak(self):
+        print("Animal speaks")
+
+class Dog(Animal):
+    def speak(self):
+        print("Dog barks")
+
+d = Dog()
+d.speak()
