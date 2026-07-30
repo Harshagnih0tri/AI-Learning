@@ -344,3 +344,20 @@ AI-Learning/
 ├── 13_Projects/
 ├── 14_Interview_Notes/
 └── README.md
+
+
+
+
+
+
+
+
+# AI vs ML
+
+Artificial Intelligence (AI) is the broad field of creating systems that can perform tasks requiring human intelligence.
+
+Machine Learning (ML) is a subset of AI where models learn patterns from data instead of being explicitly programmed.
+
+Example:
+- AI: ChatGPT, self-driving cars
+- ML: Spam detection, recommendation systems
