@@ -372,3 +372,17 @@ Key concepts:
 - Parameters
 - Temperature
 - Top-p Sampling
+
+# Prompt Engineering
+
+Types:
+- Zero-shot
+- One-shot
+- Few-shot
+- Chain of Thought
+
+A good prompt should be:
+- Clear
+- Specific
+- Provide context
+- Mention output format
