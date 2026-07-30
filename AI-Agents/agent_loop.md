@@ -299,3 +299,48 @@ class Solution(object):
             rev = rev * 10 + digit
 
         return sign * rev
+
+| Commit                                      | Content Added                                           |
+| ------------------------------------------- | ------------------------------------------------------- |
+| `docs: initialize AI learning roadmap`      | Created AI Learning folder with roadmap and topics      |
+| `docs: add AI fundamentals notes`           | AI, ML, DL, Generative AI basics                        |
+| `docs: add LLM architecture notes`          | Transformers, attention, tokens, embeddings             |
+| `docs: document prompt engineering basics`  | Prompting techniques and examples                       |
+| `docs: add RAG learning notes`              | Retrieval-Augmented Generation explanation and workflow |
+| `docs: add vector database concepts`        | Embeddings, similarity search, FAISS, Pinecone          |
+| `docs: document LangChain fundamentals`     | Chains, prompts, memory, tools                          |
+| `docs: add LangGraph workflow notes`        | Nodes, edges, state, agent flow                         |
+| `docs: explain MCP architecture`            | Model Context Protocol overview                         |
+| `docs: add AI agents overview`              | Agent loop, planning, reasoning, tools                  |
+| `docs: compare AI automation frameworks`    | LangChain vs LangGraph vs CrewAI vs AutoGen             |
+| `feat: add OpenAI API examples`             | Basic Python scripts using OpenAI API                   |
+| `feat: add Ollama local model examples`     | Running local LLMs with Ollama                          |
+| `feat: add Hugging Face inference examples` | Loading and using transformers                          |
+| `feat: implement simple chatbot`            | Basic chatbot with conversation history                 |
+| `feat: add embedding generation example`    | Generate and compare embeddings                         |
+| `feat: build basic RAG prototype`           | PDF loader + vector DB + retrieval                      |
+| `feat: create agent with tool calling`      | Calculator/search tool integration                      |
+| `feat: add FastAPI AI endpoint`             | REST API serving an LLM                                 |
+| `feat: add Streamlit chatbot UI`            | Simple frontend for chatbot                             |
+| `test: add prompt evaluation examples`      | Prompt comparison experiments                           |
+| `refactor: reorganize AI notes by topic`    | Better folder structure                                 |
+| `docs: add interview preparation notes`     | AI interview Q&A                                        |
+| `docs: summarize weekly AI learning`        | Progress log and takeaways                              |
+| `chore: update learning resources`          | Added books, blogs, videos, papers                      |
+AI-Learning/
+│
+├── 01_AI_Fundamentals/
+├── 02_Prompt_Engineering/
+├── 03_LLMs/
+├── 04_RAG/
+├── 05_Embeddings/
+├── 06_Vector_Databases/
+├── 07_LangChain/
+├── 08_LangGraph/
+├── 09_MCP/
+├── 10_AI_Agents/
+├── 11_Local_LLMs/
+├── 12_API_Examples/
+├── 13_Projects/
+├── 14_Interview_Notes/
+└── README.md
