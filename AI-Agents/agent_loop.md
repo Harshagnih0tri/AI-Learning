@@ -361,3 +361,14 @@ Machine Learning (ML) is a subset of AI where models learn patterns from data in
 Example:
 - AI: ChatGPT, self-driving cars
 - ML: Spam detection, recommendation systems
+
+# Large Language Models
+
+LLMs are neural networks trained on massive text datasets.
+
+Key concepts:
+- Tokens
+- Context Window
+- Parameters
+- Temperature
+- Top-p Sampling
