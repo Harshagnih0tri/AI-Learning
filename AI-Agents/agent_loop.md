@@ -407,3 +407,15 @@ nums.remove(2)
 print(nums)
 print(sum(nums))
 print(max(nums))
+
+# collections.py
+student = {
+    "name": "Harsh",
+    "age": 21,
+    "course": "AIML"
+}
+
+languages = {"Python", "C++", "Python"}
+
+print(student)
+print(languages)
