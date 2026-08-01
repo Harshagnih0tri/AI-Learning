@@ -386,3 +386,13 @@ A good prompt should be:
 - Specific
 - Provide context
 - Mention output format
+
+
+# strings.py
+text = "Hello World"
+
+print(text.lower())
+print(text.upper())
+print(text.replace("World", "Python"))
+print(text.split())
+print(text[::-1])
