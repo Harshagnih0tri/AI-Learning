@@ -396,3 +396,14 @@ print(text.upper())
 print(text.replace("World", "Python"))
 print(text.split())
 print(text[::-1])
+
+# lists.py
+nums = [1, 2, 3]
+
+nums.append(4)
+nums.insert(0, 0)
+nums.remove(2)
+
+print(nums)
+print(sum(nums))
+print(max(nums))
