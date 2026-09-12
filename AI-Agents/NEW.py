@@ -24,3 +24,10 @@ def second_largest(nums):
 
 
 print(second_largest([10, 5, 8, 20, 15]))
+
+def is_anagram(s1, s2):
+    return sorted(s1) == sorted(s2)
+
+
+print(is_anagram("listen", "silent"))
+print(is_anagram("hello", "world"))
